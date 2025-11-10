@@ -1,3 +1,3 @@
 # firstrepository-practice
-This is my first trail repository
+This is my first trail  git repository.
 Author - Supriya
